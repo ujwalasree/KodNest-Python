@@ -1,4 +1,4 @@
-std_name = "Ujwala"
+std_name = "Rahul"
 course_dur = 30
 course_rating = 4.8 
 is_enrolled = True
