@@ -1,3 +1,14 @@
-#write you code here
-print("Hello World")
-print("Welcome to Kodnest future developers")
+class Dog:
+    def sound(self):
+        print("Dog barks")
+
+
+class Cat:
+    def sound(self):
+        print("Cat meows")
+
+
+d = Dog()
+c = Cat()
+
+d.sound()
